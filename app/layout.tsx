@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import { ThemeProvider } from '@/components/theme-provider'
 import { BookmarkProvider } from '@/components/bookmark-provider'
+import { RecentlyViewedProvider } from '@/components/recently-viewed-provider'
 import { Navbar } from '@/components/navbar'
 import { Footer } from '@/components/footer'
 import './globals.css'
@@ -48,13 +49,15 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           <BookmarkProvider>
-            <div className="flex flex-col min-h-screen">
-              <Navbar />
-              <main className="flex-1 pt-16">
-                {children}
-              </main>
-              <Footer />
-            </div>
+            <RecentlyViewedProvider>
+              <div className="flex flex-col min-h-screen">
+                <Navbar />
+                <main className="flex-1 pt-16">
+                  {children}
+                </main>
+                <Footer />
+              </div>
+            </RecentlyViewedProvider>
           </BookmarkProvider>
         </ThemeProvider>
         <Analytics />
