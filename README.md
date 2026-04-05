@@ -1,4 +1,4 @@
-#🚀 SRM Insider
+##🚀 SRM Insider
 
 A modern, student-focused web platform built to help SRM students explore **placements, internships, and campus life** — all in one place.
 
