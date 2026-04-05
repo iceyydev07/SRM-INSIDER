@@ -1,4 +1,4 @@
-##🚀 SRM Insider
+# 🚀 SRM Insider
 
 A modern, student-focused web platform built to help SRM students explore **placements, internships, and campus life** — all in one place.
 
@@ -61,8 +61,7 @@ Integrated a real dataset using a Python backend to simulate real-world data flo
 
 ## 📸 Demo
 
-> <img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/1a3b1e61-387d-46bd-8b7c-834cf2d45de5" />
-
+> *(Add screenshots or demo video link here)*
 
 ---
 
