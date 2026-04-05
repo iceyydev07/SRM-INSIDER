@@ -1,4 +1,5 @@
-# 🚀 SRM Insider
+<img width="286" height="57" alt="Logo_Original" src="https://github.com/user-attachments/assets/a305ad3c-b66c-4fd2-a08a-b74947a57890" />
+
 
 A modern, student-focused web platform built to help SRM students explore **placements, internships, and campus life** — all in one place.
 
