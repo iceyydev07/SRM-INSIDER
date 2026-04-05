@@ -61,7 +61,8 @@ Integrated a real dataset using a Python backend to simulate real-world data flo
 
 ## 📸 Demo
 
-> *(Add screenshots or demo video link here)*
+> *<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/6a3cb2eb-f635-4480-9c8c-a988f68fa3d2" />
+)*
 
 ---
 
